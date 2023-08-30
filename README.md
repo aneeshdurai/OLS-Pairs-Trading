@@ -1,0 +1,2 @@
+# OLS-Pairs-Trading
+In the following research, we will analyze the effects of pairs trading (multiple companies across multiple industries) excluding the profitability of such strategies. Rather, we will analyze various risk measures across all different pairings of stocks within their own respective industry across multiple industries. With this methodology, we will develop a pairs trading strategy that performs better than the index.
